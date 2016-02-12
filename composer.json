@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0",
         "thruster/http-modifier": "~2.0",
-        "zendframework/zend-diactoros": "~1.3"
+        "thruster/http-message": "~1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0"

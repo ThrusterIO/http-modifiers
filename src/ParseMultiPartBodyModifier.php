@@ -3,8 +3,8 @@
 namespace Thruster\Component\HttpModifiers;
 
 use Psr\Http\Message\ServerRequestInterface;
+use Thruster\Component\HttpMessage\UploadedFile;
 use Thruster\Component\HttpModifier\ServerRequestModifierInterface;
-use Zend\Diactoros\UploadedFile;
 
 /**
  * Class ParseMultiPartBodyModifier
